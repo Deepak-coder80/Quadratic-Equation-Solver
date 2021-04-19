@@ -33,5 +33,7 @@ public class QuadraticEquationSolver{
 
         Solver(cxs, cx, c);
 
+        sc.close();
+
     }
 }
